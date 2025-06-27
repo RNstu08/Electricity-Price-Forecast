@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-arg.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.csv # Don't commit the raw data file, it's large and can be downloaded separately
+*.xlsx
+*.xls
+
+# IDEs and other
+.vscode/
+*.log
+*.tmp
+*.bak
