@@ -4,6 +4,11 @@
 - This repository contains my solution to the coding challenge. 
 - The objective is to design and implement models for forecasting day-ahead power prices in the energy market.
 
+---
+# Day-Ahead Power Price Forecasting Challenge
+
+This repository contains my solution to the coding challenge. The objective is to design and implement models for forecasting day-ahead power prices in the energy market.
+
 ## Project Structure
 
 ```
