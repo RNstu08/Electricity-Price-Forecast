@@ -6,7 +6,7 @@
 
 ## Project Structure
 
-```
+
 ml-electricity-price-forecast/
 ├── .venv/                         # Python virtual environment
 ├── .gitignore                     # untracked files
@@ -14,8 +14,7 @@ ml-electricity-price-forecast/
 ├── ml-engineer-dataset.csv        # dataset
 └── README.md                      
 
-```
----
+
 ## Setup and How to Run the Solution
 
 To run this solution locally, please follow these steps:
@@ -54,4 +53,4 @@ To run this solution locally, please follow these steps:
     * Select the Python interpreter associated with your virtual environment (`.venv`).
     * Run all cells in the notebook (`Run All` button or `Kernel -> Restart Kernel and Run All Cells`).
 ---
----
+
