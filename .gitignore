@@ -11,9 +11,7 @@ pip-delete-this-arg.txt
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
-*.csv # Don't commit the raw data file, it's large and can be downloaded separately
-*.xlsx
-*.xls
+#*.csv
 
 # IDEs and other
 .vscode/
